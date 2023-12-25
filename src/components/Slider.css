@@ -1,0 +1,20 @@
+
+
+@media screen and (max-width: 600px) {
+    .Carousel-Item{
+        height: 100;
+        min-height: 300px;
+        -webkit-animation-size:cover;
+        background-color: cover;
+       
+    }
+    
+    h1{
+        font-family: Verdana;
+        font-style: solid;
+    } 
+    .Carousel-Caption{
+        padding: 5px;
+    }
+  }
+
